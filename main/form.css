@@ -1,0 +1,198 @@
+.formDiv{    
+  padding: 21px;    
+   border-radius: 5px;    
+   background-image: url("../images/13.jpg");
+   width:500px;
+   height: 1000px;
+   margin-left:450px;
+  
+  }    
+  
+  .formDiv-bank{    
+    padding: 21px;    
+     border-radius: 5px;    
+     background-image: url("../images/13.jpg");
+     width:500px;
+     height: 900px;
+     margin-left:450px;
+     padding-top: 40px;
+    
+    }   
+
+    /* conform */
+    .formDiv-conform{    
+      padding: 21px;    
+       border-radius: 5px;    
+       background-image: url("../images/13.jpg");
+       width:500px;
+       height: 500px;
+       margin-left:450px;
+       padding-top: 40px;
+       margin-top: 100px;
+      
+      }   
+
+    /* sponsorsform */
+
+    .formDiv-sp{    
+      padding: 21px;    
+       border-radius: 5px;    
+       background-image: url("../images/13.jpg");
+       width:500px;
+       height: 1200px;
+       margin-left:450px;
+       padding-top: 40px;
+      
+      }   
+    
+    /* bank */
+
+    .formDiv-bankt{    
+      padding: 21px;    
+       border-radius: 5px;    
+       background-image: url("../images/13.jpg");
+       width:500px;
+       height: 700px;
+       margin-left:450px;
+       padding-top: 40px;
+      
+      }  
+      
+      /* ATM payment */
+      .formDiv-payment{    
+        padding: 21px;    
+         border-radius: 5px;    
+         background-image: url("../images/13.jpg");
+         width:500px;
+         height: 600px;
+         margin-left:450px;
+         padding-top: 40px;
+        
+        }  
+
+        
+        
+        
+
+  .formDiv-s {    
+    padding: 21px;    
+     border-radius: 5px;    
+     background-image: url("../images/13.jpg");
+     width:500px;
+     height: 1200px;
+     margin-left:450px;
+     padding-top: 40px;
+    }    
+
+    .formDiv-t {    
+      padding: 21px;    
+       border-radius: 5px;    
+       background-image: url("../images/13.jpg");
+       width:500px;
+       height: 900px;
+       margin-left:450px;
+       padding-top: 40px;
+      
+      }    
+        
+    input[type=text],select    
+    {    
+      width: 100%;    
+      padding: 12px 20px;    
+      margin: 8px 0;    
+      display: inline-block;    
+      border: 1px solid rgb(87, 15, 155);    
+      border-radius: 4px;    
+      box-sizing: border-box; 
+      background-color: white;
+      color:black;   
+    }
+    
+    
+    .c
+    {
+      color: black;
+    }  
+        
+    input[type=submit] {    
+      width: 100px;    
+      background-color: #4871e0;    
+      color:rgb(247, 238, 238);    
+      padding: 14px 20px;    
+      margin: 8px 0;    
+      border: none;    
+      border-radius: 4px;    
+      cursor: pointer;    
+    }    
+        
+    input[type=submit]:hover {    
+      background-color: #afccbe;    
+    }    
+    .showError{    
+      border-color: #a94442 !important;    
+      color: #a94442 !important;    
+      margin-bottom: 15px;    
+    }
+
+    .form-group    
+  {    
+    width: 400px;    
+    padding: 12px 20px;    
+    margin: 8px 0;    
+    display: inline-block;    
+    border: 1px solid rgb(87, 15, 155);    
+    border-radius: 10px;    
+    box-sizing: border-box; 
+    background-image: url("../images/12.jpg");
+    color:black;   
+  } 
+  
+  .btnh{    
+    width: 100px;    
+    background-color: #e91e8d;    
+    color: rgb(247, 238, 238);    
+    padding: 3px 5px;    
+    margin: 8px 0;    
+    border: none;    
+    border-radius: 30px;    
+    cursor: pointer;    
+  }  
+  
+  .form-group-S    
+  {    
+    width: 600px; 
+    height:300px;   
+    padding: 12px 20px;    
+    margin: 200PX;    
+    display: inline-block;    
+    border: 1px solid rgb(87, 15, 155);    
+    border-radius: 10px;    
+    box-sizing: border-box; 
+    background-image: url("../images/12.jpg");
+    color:black;  
+    font-size: 50px; 
+  } 
+
+  /* student/thinkd */
+
+  .form-group-thinks   
+  {    
+    width: 100px;    
+    padding: 10px 15px;    
+    margin: 8px 0;    
+    display: inline-block;    
+    border: 1px solid rgb(87, 15, 155);    
+    border-radius: 10px;    
+    box-sizing: border-box; 
+    background-color: rgb(231, 27, 193);
+    color:black; 
+    font-size:20px;
+    
+  } 
+
+  
+  
+
+  
+
+    

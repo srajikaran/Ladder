@@ -1,0 +1,147 @@
+.sign { 
+    
+  padding: 21px;    
+   border-radius: 5px;    
+   background-image: url("../images/12.jpg");
+   width:600px;
+   height: 400px;
+   margin:100px;
+   margin-left: 400px;
+   text-align:center;
+  
+    
+     
+  }    
+
+  .signup { 
+    
+    padding: 21px;    
+     border-radius: 5px;    
+     background-image: url("../images/12.jpg");
+     width:500px;
+     height: 700px;
+     margin-left:450px;
+     text-align:center;
+      
+       
+    }    
+
+
+    .fpass { 
+    
+      padding: 21px;    
+       border-radius: 5px;    
+       background-image: url("../images/12.jpg");
+       width:500px;
+       height: 500px;
+       margin-left:450px;
+       margin-top:50px;
+       text-align:center;
+       
+        
+         
+      }    
+      
+  .form-group,.form-control    
+  {   
+    align-content: center; 
+    width: 100%;    
+    padding: 12px 20px;    
+    margin: 8px 0;    
+    display: inline-block;    
+    border: 1px solid rgb(87, 15, 155);    
+    border-radius: 10px;    
+    box-sizing: border-box; 
+    background-color:white;
+    color:black;   
+  }    
+      
+  .btn{    
+    width: 100px;    
+    background-color: #28a52c;    
+    color: rgb(247, 238, 238);    
+    padding: 14px 20px;    
+    margin: 8px 0;    
+    border: none;    
+    border-radius: 10px;    
+    cursor: pointer;    
+  }    
+
+  .bts{    
+    width: 100px;    
+    background-color: #db3080;    
+    color: rgb(247, 238, 238);    
+    padding: 14px 20px;    
+    margin: 8px 0;    
+    border: none;    
+    border-radius: 10px;    
+    cursor: pointer;    
+  }    
+
+  .btnc{    
+    width: 100px;    
+    background-color: #ec9e0d;    
+    color: rgb(247, 238, 238);    
+    padding: 14px 20px;    
+    margin: 8px 0;    
+    border: none;    
+    border-radius: 10px;    
+    cursor: pointer;    
+  }    
+      
+  .btn:hover {    
+    background-color: #afccbe;    
+  }
+
+  .forgot {    
+    color:white;
+
+  }        
+  .showError{    
+    border-color: #a94442 !important;    
+    color: #a94442 !important;    
+    margin-bottom: 15px;    
+  }
+
+  /* tuser */
+
+  .btn-bank{    
+    width: 200px;    
+    background-color: #db3080;    
+    color: rgb(247, 238, 238);    
+    padding: 14px 20px;    
+    margin: 8px 0;    
+    border: none;    
+    border-radius: 50px;    
+    cursor: pointer;
+    margin-left: 500px;
+    font-size: 20px;
+  }
+
+  /* thinks */
+
+  .btn-thinks{    
+    width: 150px;    
+    background-color: #db3080;    
+    color: rgb(247, 238, 238);    
+    padding: 14px 20px;    
+    margin: 8px 0;    
+    border: none;    
+    border-radius: 50px;    
+    cursor: pointer;
+    font-size: 25px; 
+    margin-left: 600px;  
+  } 
+  
+  /* payment */
+  .btnp{    
+    width: 100px;    
+    background-color: #db3080;    
+    color: rgb(247, 238, 238);    
+    padding: 14px 20px;    
+    margin: 8px 0;    
+    border: none;    
+    border-radius: 10px;    
+    cursor: pointer; 
+    margin-left: 200px;   
+  }    
